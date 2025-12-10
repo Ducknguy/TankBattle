@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Tank
+  - Gun
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Ground
+    uniqueID: 81764089
+    locked: 0
+  - name: Grass
+    uniqueID: 540006049
+    locked: 0
+  - name: Rock
+    uniqueID: 2923924539
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Tank
+    uniqueID: 3544819983
+    locked: 0
+  - name: HeadTank
+    uniqueID: 277937051
+    locked: 0
+  - name: Gun
+    uniqueID: 3805964243
+    locked: 0
+  m_RenderingLayers:
+  - Default

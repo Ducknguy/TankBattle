@@ -1,0 +1,16 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+
+# VS / Rider / VSCode
+.vs/
+.idea/
+.vscode/
+
+# Crash logs
+*.stacktrace
